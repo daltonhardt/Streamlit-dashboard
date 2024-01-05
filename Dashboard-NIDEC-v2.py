@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import pandas as pd
 from datetime import datetime, timedelta
-# import locale
+import locale
 
 # Para mostrar todas as linhas e colunas do Dataframe
 pd.set_option('display.max_rows', None)
@@ -27,6 +27,9 @@ hora_troca_sabado = '09:00:00'
 hora_saida_sabado = '13:00:00'
 horas_dia_semana = 8
 horas_dia_sabado = 4
+
+# Configurar o idioma para português
+# locale.setlocale(locale.LC_TIME, 'pt_BR.UTF-8')  # Substitua 'pt_BR.UTF-8' pelo locale do seu sistema
 
 
 # Definindo lista com 24 cores para definir os Operadores
