@@ -29,7 +29,7 @@ horas_dia_semana = 8
 horas_dia_sabado = 4
 
 # Configurar o idioma para português
-locale.setlocale(locale.LC_TIME, 'pt_BR-utf8')  # Substitua 'pt_BR.UTF-8' pelo locale apropriado do seu sistema
+locale.setlocale(locale.LC_TIME, 'pt_BR.UTF-8')  # Substitua 'pt_BR.UTF-8' pelo locale apropriado do seu sistema
 
 # Definindo lista com 24 cores para definir os Operadores
 cores = ['coral', 'limegreen', 'dodgerblue', 'yellow', 'orange', 'deepskyblue', 'pink', 'lightsalmon',
