@@ -41,7 +41,8 @@ df_cores = pd.DataFrame(cores, columns=['Cor'])
 
 # Iniciando o streamlit
 st.set_page_config(page_title="RFID Dashboard", page_icon="✅", layout="wide")
-st.image('/Users/dalton/Desktop/workspace/figuras/logoNidec.png')
+st.image('./logoNidec.png')
+# st.image('/Users/dalton/Desktop/workspace/figuras/logoNidec.png')
 st.title("RFID Itaiópolis Dashboard")
 
 # Lendo o arquivo CSV
