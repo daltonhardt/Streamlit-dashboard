@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import pandas as pd
 from datetime import datetime, timedelta
-import locale
 
 # Para mostrar todas as linhas e colunas do Dataframe
 pd.set_option('display.max_rows', None)
