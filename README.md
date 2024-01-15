@@ -26,3 +26,5 @@ Dashboard de Linhas, Postos de Trabalho e Operadores.
    3.4 no campo 'Main file path' entre com o nome do arquivo principal
          'Dashboard-NIDEC-v4.py'
    3.5 clique em "Deploy"
+   3.6 Pronto para acessar a URL:  https://app-dashboard-rfid.streamlit.app/
+   
