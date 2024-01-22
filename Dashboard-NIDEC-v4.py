@@ -204,7 +204,7 @@ def ajusta_dataframe():
 ################################################################################################
 # Iniciando o streamlit
 st.set_page_config(page_title="RFID Dashboard v4", page_icon="✅", layout="wide")
-st.image('/Users/dalton/Desktop/workspace/figuras/logoNidec.png')
+st.image('./logoNidec.png')
 st.title("RFID Dashboard - Itaiópolis")
 
 # Lendo o arquivo CSV
