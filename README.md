@@ -19,7 +19,7 @@ Dashboard de Linhas, Postos de Trabalho e Operadores.
        # git push origin master
      
 3. Preparar o ambiente no Streamlit para publicar o App
-   3.1 acesse:  share.streamlit.io
+   3.1 acesse:  share.streamlit.io  (https://share.streamlit.io/signup)
    3.2 selecione "New App"
    3.3 no campo 'Repository' entre com o caminho para o Github descrito no item 2.2 acima
          'daltonhardt/Streamlit-dashboard'
