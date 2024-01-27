@@ -10,10 +10,12 @@ Primeiro crie o arquivo 'requirements.txt' da seguinte maneira:<br>
 > Através de um terminal, posicione-se na pasta onde estão os arquivos e digite os seguintes comandos:<br>
 > pip install pipreqs <br>
 > pipreqs ./ <br>
+
 Agora suba os arquivos:
 > git init <br>
 > git add . <br>
 > git commit -m 'first commit' <br>
+
 Copie o link da URL do repositório criado no item 1.1<br>
 > git remote add origin https://github.com/daltonhardt/Streamlit-dashboard.git <br>
 > git push origin master <br>
