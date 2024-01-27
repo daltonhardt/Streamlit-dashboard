@@ -6,9 +6,9 @@ Dashboard de Linha, Posto de Trabalho e Operador.
 2. Preparar os arquivos para subir no GitHub
 
 2.1 Criar o arquivo 'requirements.txt'
-    Posicionar-se na pasta onde estão os arquivos
-    > pip install pipreqs <enter>
-    > pipreqs ./ <enter>
+Posicionar-se na pasta onde estão os arquivos
+> pip install pipreqs <enter>
+> pipreqs ./ <enter>
 
 2.1 Criar um novo repositório no GitHub (make Public)
 
