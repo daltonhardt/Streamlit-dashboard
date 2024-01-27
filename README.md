@@ -7,8 +7,8 @@ Dashboard de Linha, Posto de Trabalho e Operador.
 
 2.1 Criar o arquivo 'requirements.txt'<br>
 Posicionar-se na pasta onde estão os arquivos
-> pip install pipreqs <enter>
-> pipreqs ./ <enter>
+> pip install pipreqs <br>
+> pipreqs ./ <br>
 
 2.1 Criar um novo repositório no GitHub (make Public)
 
