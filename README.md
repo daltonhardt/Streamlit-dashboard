@@ -28,7 +28,7 @@ Copie o link da URL do repositório criado no item 1.1<br>
 2.2 Faça o deploy da aplicação da seguinte maneira:<br>
 > selecione "New App"<br>
 > no campo 'Repository' entre com o caminho para o Github descrito no item 1.2 acima (sem a extensão '.git')<br>
-#### 'daltonhardt/Streamlit-dashboard'
+## 'daltonhardt/Streamlit-dashboard'
 > no campo 'Main file path' entre com o nome do arquivo principal<br>
 #### 'Dashboard-NIDEC-v4.py'
 > clique em "Deploy"<br>
