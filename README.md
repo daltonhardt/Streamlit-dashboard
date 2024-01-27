@@ -1,40 +1,35 @@
 ## DASHBOARD RFID NIDEC/EMBRACO ITAIÓPOLIS
-Dashboard de Linha, Posto de Trabalho e Operador.
-
-#### 1. Utilizando Streamlit para publicação da solução
+Dashboard de Linha, Posto de Trabalho e Operador. Utilizando Streamlit para publicação da solução.
    
-#### 2. Preparar os arquivos para subir no GitHub
+#### 1. Prepare os arquivos para subir no GitHub
 
-2.1 Criar o arquivo 'requirements.txt'<br>
-Posicionar-se na pasta onde estão os arquivos
+1.1 Faça o login no GitHunb e crie um novo repositório (make Public)
+
+1.2 Suba os arquivos para o GitHub da seguinte maneira:<br>
+Primeiro crie o arquivo 'requirements.txt' da seguinte maneira:<br>
+> Através de um terminal, posicione-se na pasta onde estão os arquivos e digite os seguintes comandos:<br>
 > pip install pipreqs <br>
 > pipreqs ./ <br>
-
-2.1 Criar um novo repositório no GitHub (make Public)
-
-2.2 Subir os arquivos para o Github<br>
-Posicionar-se na pasta onde estão os arquivos<br>
+Agora suba os arquivos:
 > git init <br>
 > git add . <br>
 > git commit -m 'first commit' <br>
-
-Copie o link da URL do repositório criado no item 2.1<br>
+Copie o link da URL do repositório criado no item 1.1<br>
 > git remote add origin https://github.com/daltonhardt/Streamlit-dashboard.git <br>
 > git push origin master <br>
      
-#### 3. Preparar o ambiente no Streamlit para publicar o App<br>
+#### 2. Preparar o ambiente no Streamlit para publicar o App<br>
 
-3.1 acesse:  share.streamlit.io  (https://share.streamlit.io/signup) <br>
+2.1 Faça o login no Streamlit<br>
+#### https://share.streamlit.io/signup
 
-3.2 selecione "New App"<br>
-
-3.3 no campo 'Repository' entre com o caminho para o Github descrito no item 2.2 acima
+2.2 Faça o deploy da aplicação da seguinte maneira:<br>
+> selecione "New App"<br>
+> no campo 'Repository' entre com o caminho para o Github descrito no item 1.2 acima (sem a extensão '.git')<br>
 #### 'daltonhardt/Streamlit-dashboard'
-
-3.4 no campo 'Main file path' entre com o nome do arquivo principal
+> no campo 'Main file path' entre com o nome do arquivo principal<br>
 #### 'Dashboard-NIDEC-v4.py'
+> clique em "Deploy"<br>
 
-3.5 clique em "Deploy"<br>
-
-3.6 Pronto para acessar a URL:
+Agora é só acessar a URL:
 #### https://dashboard-rfid.streamlit.app/
