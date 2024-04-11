@@ -1,11 +1,11 @@
-#  Utilizando Streamlit para publicação da solução
+#  Procedimento para publicar a solução usando Streamlit Hub (Using Streamlit hub to publish the App)
 
 ## DASHBOARD RFID NIDEC/EMBRACO ITAIÓPOLIS
 Dashboard de Linha, Posto de Trabalho e Operador
    
 #### 1. Prepare os arquivos para subir no GitHub
 
-1.1 Faça o login no GitHunb e crie um novo repositório (make Public)
+1.1 Faça o login no GitHub e crie um novo repositório (make Public)
 
 1.2 Suba os arquivos para o GitHub da seguinte maneira:<br>
 Primeiro crie o arquivo 'requirements.txt' da seguinte maneira:<br>
