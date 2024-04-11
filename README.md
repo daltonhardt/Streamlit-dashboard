@@ -52,6 +52,6 @@ Siga os passos abaixo:<br>
 
 5. Entre com o seu endereço de email.<br>
 
-6. Em poucos segundos deve estar pronto para você fazer o downaload do arquivo APK.<br>
+6. Em poucos segundos deve estar pronto para você fazer o download do arquivo APK.<br>
 
 7. Faça o download do arquivo APK e teste no dispositivo.
