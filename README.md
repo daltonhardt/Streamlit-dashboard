@@ -1,5 +1,7 @@
+#  Utilizando Streamlit para publicação da solução
+
 ## DASHBOARD RFID NIDEC/EMBRACO ITAIÓPOLIS
-Dashboard de Linha, Posto de Trabalho e Operador. Utilizando Streamlit para publicação da solução.
+Dashboard de Linha, Posto de Trabalho e Operador
    
 #### 1. Prepare os arquivos para subir no GitHub
 
